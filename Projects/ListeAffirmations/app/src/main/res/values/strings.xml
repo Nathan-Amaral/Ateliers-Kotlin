@@ -1,0 +1,28 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Le vrai bonheur ne dépend d\'aucun être d\'aucun objet extérieur. Il ne dépend que de nous...</string>
+    <string name="affirmation2">Fais preuve de gentillesse envers tous ceux que tu rencontres, leur combat est peut-être plus dur que le tien.</string>
+    <string name="affirmation3">La vie est trop courte et le temps bien trop précieux pour le perdre avec des sots.</string>
+    <string name="affirmation4">Lorsque la vie te fait plonger dans une mer de larmes, tu as le choix : te noyer ou apprendre à nager.</string>
+    <string name="affirmation5">Mieux vaut rater sa chance que de ne pas l\'avoir tentée.</string>
+    <string name="affirmation6">Le rêve dessine le chemin, la volonté l\'ouvre, le coeur lui donne sa couleur</string>
+    <string name="affirmation7">Ne comptez pas les jours, faites que les jours comptent.</string>
+    <string name="affirmation8">Peu importe la lenteur à laquelle vous allez tant que vous ne vous arrêtez pas.</string>
+    <string name="affirmation9">Si la vie vous donne des citrons, faites-en de la limonade.</string>
+    <string name="affirmation10">La vie est un cadeau. Ne l’oubliez jamais.</string>
+</resources>
