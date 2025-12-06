@@ -1,2 +1,2 @@
 # Ateliers-Kotlin
-Quelques ateliers en Kotlin réalisés
+Quelques ateliers réalisés en Kotlin
